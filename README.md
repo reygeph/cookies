@@ -1,2 +1,2 @@
 # cookies
-just your average cookie jar
+just your average repository
